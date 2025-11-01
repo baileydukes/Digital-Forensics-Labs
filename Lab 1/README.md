@@ -5,6 +5,6 @@ This lab will entail finding a 'corrupted image file' and how we can view this i
 This lab has some prerequisites, please see the below as you will need to download some things:
 - Download Autopsy - https://www.autopsy.com/download/
 - Download HxD (Hex Editor) - https://mh-nexus.de/en/hxd/
-- Download the [image](/Image1)
+- Download the [image](Image1)
 
 After you have downloaded 
