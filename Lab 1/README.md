@@ -7,4 +7,9 @@ This lab has some prerequisites, please see the below as you will need to downlo
 - Download HxD (Hex Editor) - https://mh-nexus.de/en/hxd/
 - Download the [image](Image1)
 
-After you have downloaded 
+After you have downloaded the above, you can proceed.
+
+# Step 1. 
+Now that we have everything, we want to pretend that we need to do some **Forensic Analysis** on the image file that we have been provided.
+
+Start with opening Autopsy, you will be greeted with the below prompts.
