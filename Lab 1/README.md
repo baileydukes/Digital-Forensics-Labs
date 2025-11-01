@@ -14,4 +14,4 @@ Now that we have everything, we want to pretend that we need to do some **Forens
 
 Start with opening Autopsy, you will be greeted with the below prompt.
 
-[Lab 1/labImages/AutopsyStart.png]
+[](Lab 1/labImages/AutopsyStart.png)
