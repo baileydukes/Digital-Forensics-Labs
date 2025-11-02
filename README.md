@@ -3,3 +3,4 @@
 ## Welcome to my Digital Forensic Labs. 
 
 - [Lab 1 — Using HxD and Autopsy to recover an image file](/Lab%201/)
+- [Lab 2 — Using an EC2 instance and installing volatility to take and analyse a memory dump](/Lab%202/)
