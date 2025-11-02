@@ -69,17 +69,17 @@ To do this we can open a Hex Editor. In this case/lab, we will be using HxD. On 
 
 This is what it will look like in HxD.
 
-![alt text](HxDView.png)
+![alt text](labImages/HxDView.png)
 
 Firstly, look at the first set of hex values, we can see for this image, it is set as **77 77 77 77**. This is not the typical header value for a *jpg* file. Therefore we can look online to the value is should be set as. The correct value is as follows **FF D8 FF E0**.
 
 Therefore, in HxD, change the first values to the above mentioned values. Yours should look like the below:
 
-![alt text](HxdEdited.png)
+![alt text](labImages/HxdEdited.png)
 
 Now, hit File > Save as > and name it something like "Recover1.jpg". Now depending on where you have saved it, open the image and it should look like the below:
 
-![alt text](Recover1.jpg)
+![alt text](labImages/Recover1.jpg)
 
 At this point we have finished this lab, here are some key takeaways.
 - You can use Autopsy to search for an image for things such as the Hex value, Metadata and much more.
