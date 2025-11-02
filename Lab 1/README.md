@@ -18,7 +18,7 @@ Start with opening Autopsy, you will be greeted with the below prompt.
 
 Click **New Case**
 
-![alt text](labimages/CreateCase.png)
+![alt text](labImages/CreateCase.png)
 
 From here, choose your case name. You will also need to choose a **Base Directory**. This is where all of the configuration files and actual Autopsy file (.aut) will exist.
 
