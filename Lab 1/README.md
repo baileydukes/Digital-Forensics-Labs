@@ -15,3 +15,11 @@ Now that we have everything, we want to pretend that we need to do some **Forens
 Start with opening Autopsy, you will be greeted with the below prompt.
 
 ![alt text](labImages/AutopsyStart.png)
+
+Click **New Case**
+
+![alt text](labimages/CreateCase.png)
+
+From here, choose your case name. You will also need to choose a **Base Directory**. This is where all of the configuration files and actual Autopsy file (.aut) will exist.
+
+
