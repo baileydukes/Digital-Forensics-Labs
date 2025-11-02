@@ -22,4 +22,8 @@ Click **New Case**
 
 From here, choose your case name. You will also need to choose a **Base Directory**. This is where all of the configuration files and actual Autopsy file (.aut) will exist.
 
+Now enter in your case details. Keep in mind it is best practice to ensure that when you are doing forensic investigations with Autopsy, that you correctly label your cases. This includes have a uniform syntax that you can use for future investigations for ongoing cases/investigations. See the below:
+
+![alt text](labImages/CaseDetails.png)
+
 
