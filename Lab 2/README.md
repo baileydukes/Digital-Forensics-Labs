@@ -33,7 +33,7 @@ Once the file has been downloaded, you can now use volatility to analyse the mem
 Run the following command.
 
 ```
-- vol3.exe -f “/path/to/file” windows.pslist
+vol3.exe -f “/path/to/file” windows.pslist
 ```
 
 Note: I have renamed vol.exe to vol3.exe as vol is also a Windows command which can be confusing when running it in the terminal. Below is an example of the windows.pslist argument:
