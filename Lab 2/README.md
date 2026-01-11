@@ -31,8 +31,12 @@ In the above, you can also choose if want to capture the page file as well. Plea
 Once the file has been downloaded, you can now use volatility to analyse the memory dump. 
 
 Run the following command.
+
+```
 - vol3.exe -f “/path/to/file” windows.pslist
-Note: I have renamed vol.exe to vol3.exe as vol is also a Windows command which can be confusing when running it in the terminal. Below is an example:
+```
+
+Note: I have renamed vol.exe to vol3.exe as vol is also a Windows command which can be confusing when running it in the terminal. Below is an example of the windows.pslist argument:
 
 ![alt text](labImages/psExample.png)
 
@@ -61,3 +65,4 @@ PID     PPID    ImageFileName   Offset(V)       Threads Handles SessionId       
 4       0       System  0x80879e698040  145     -       N/A     False   2026-01-11 06:02:08.000000 UTC  N/A     Disabled
 ```
 
+Once you have done the above, you have the tools necessary to test memory dumps as well as apply this to potential real world situations. Understanding Windows internals and Memory analysis is key to take this further and become an expert in this area.
